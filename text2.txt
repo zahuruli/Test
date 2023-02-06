@@ -1,1 +1,2 @@
 this is from text2
+added some new text
