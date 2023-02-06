@@ -1,2 +1,3 @@
 Hello from new text1 file
 this is for merging perpose
+feature 4 marging
